@@ -7,7 +7,7 @@
       <div class="max-w-7xl mx-auto px-4">
         <div class="flex justify-between h-16">
           <div class="flex items-center space-x-2">
-            <img src="https://i.imgur.com/Vbx10VA.png" alt="Profile" class="h-10 w-10 rounded-full object-cover">
+            <img src="https://i.imgur.com/Ap9Seoc.png" alt="Profile" class="h-10 w-10 rounded-full object-cover">
             <h1 class="text-xl font-bold">Portfolio 2025</h1>
           </div>
           <div class="flex items-center space-x-4">
