@@ -1,0 +1,1 @@
+<command>curl -o public/profile.jpg https://raw.githubusercontent.com/stackblitz/stackblitz-codeflow/main/examples/profile.jpg</command>
